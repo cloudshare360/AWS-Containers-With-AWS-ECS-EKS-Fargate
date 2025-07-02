@@ -1,13 +1,9 @@
-# AWS-Containers-With-AWS-ECS-EKS-Fargate
-AWS Containers with AWS ECS, EKS and Fargate
-https://learning.oreilly.com/live-events/aws-containers-with-aws-ecs-eks-and-fargate/0642572189853/0642572189846/
+# AWS-Containers-With-AWS-ECS-EKS-Fargate  
+[AWS Containers with AWS ECS, EKS and Fargate](https://learning.oreilly.com/live-events/aws-containers-with-aws-ecs-eks-and-fargate/0642572189853/0642572189846/)
 
-AWS Containers with AWS ECS, EKS and Fargate
-Published by Pearson
-
-queue
-Intermediate
-Build, deploy, and optimize containers with AWS ECS, Fargate, & EKS
+AWS Containers with AWS ECS, EKS and Fargate  
+Published by Pearson  
+Build, deploy, and optimize containers with AWS ECS, Fargate, & EKS  
 
 Complete this course and earn a badge!
 What you’ll learn
